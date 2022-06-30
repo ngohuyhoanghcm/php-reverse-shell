@@ -29,7 +29,7 @@
 // You are encouraged to send comments, improvements or suggestions to
 // me at pentestmonkey@pentestmonkey.net
 //
-// Description
+// Descriptionss
 // -----------
 // This script will make an outbound TCP connection to a hardcoded IP and port.
 // The recipient will be given a shell running as the current user (apache normally).
